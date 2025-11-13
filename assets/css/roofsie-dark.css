@@ -143,12 +143,7 @@ body.boxed-wrapper .page-wrapper,
     color: var(--roofsie-white);
 }
 
-.thm-btn:hover {
-    color: var(--roofsie-base);
-}
-
 .thm-btn:hover i{
-    background-color: var(--roofsie-base);
     color: var(--roofsie-white);
 }
 
